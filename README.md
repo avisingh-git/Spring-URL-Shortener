@@ -10,6 +10,7 @@ java -jar spring-url-shortner.jar
 ```
 
 ### API Details
+
 #### Create Short URL:
 `http://localhost:8085/rest/url`
 
