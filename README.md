@@ -27,7 +27,7 @@ Response body:
     "url": "https://www.gmail.com",
     "created": "2018-12-02T14:11:26.887"
 }
-
+```
 #### Retrieve Original URL:
 `http://localhost:8085/rest/url/{id}`
 
